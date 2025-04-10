@@ -35,5 +35,3 @@ Dependencies
 - Fiji (with TrackMate plugin)
 - Ilastik v1.4.0+ (for cell segmentation)
 - Python 3.9 (for running the Jupyter notebook and PyImageJ if used for format conversion)
- 
-![image](https://github.com/user-attachments/assets/c21e6799-3502-4177-81c1-714a01a24d4b)
