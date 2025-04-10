@@ -25,7 +25,9 @@ Repository Contents
 File - Description
 
 `h5_to_tiff_macro.ijm` - Fiji macro to convert Ilastik segmentations into TIFFs
+
 `TrackMate_Tracking.py` - Jython script to batch-process TIFFs (Ilastik masks) using TrackMate
+
 `single_cell_tracking.ipynb` - Jupyter Notebook for file conversion (.nd2 / .czi to .tiff) and merging and cleaning exported `.csv` files from TrackMate
 
 ---
